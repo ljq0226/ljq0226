@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ljq0226
 - 👀 I’m interested in React TypeScript NextJS NestJS
 - 🌱 I’m currently learning those
-- 💞️ I’m looking to collaborate on a good job
-- 📫 1035821043@qq.com
+- 💞️ I want to find an FE internship
+- 📫 luorom001@gmail.com
 
 <!---
 ljq0226/ljq0226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
