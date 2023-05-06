@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ljq0226
-- 👀 I’m interested in React TypeScript NextJS NestJS
+- 👀 I’m interested in React TypeScript NextJS NestJS Rust
 - 🌱 I’m currently learning those
 - 💞️ I want to find an FE internship
 - 📫 luorom001@gmail.com
