@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/ljq0226" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=ljq0226&theme=dark&show_icons=true?count_private=true" width="40%" alt="Savuer's github stats"/>
+	<img  src="https://github-readme-stats.vercel.app/api?username=ljq0226&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="croatialu's Github Stats"/>
 	</a>
 	<a href="https://github.com/ljq0226" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljq0226&layout=compact&hide=html&theme=dark" width="40%" alt="savuer's github top skills"/>
