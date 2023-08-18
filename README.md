@@ -6,7 +6,7 @@
   <table>
   <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=ljq0226&theme=dark&show_icons=true?count_private=true"  alt="Savuer's github stats"/></td>
-    <td><img src="https://5fjqcfadjd.hk.aircode.run/juejin?uid=3993904418408455&hide_border=true" alt="我的掘金数据" style="zoom:100%;" align="right"/></td>
+    <td> <img src = "https://5fjqcfadjd.hk.aircode.run/juejin?uid=3993904418408455" alt="我的掘金" aligin="right"/></td>
   </tr>
 </table>
 </p>
